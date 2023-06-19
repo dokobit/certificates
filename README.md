@@ -1,3 +1,14 @@
+## 2023 app.dokobit.com, dokobit.com, www.dokobit.com
+### Qualified Website Authentication Certificate (QWAC)
+__Validity__ \
+notBefore=Dec 19 16:29:18 2022 GMT
+notAfter=Nov 25 22:59:00 2023 GMT
+
+__Subject__ \
+`Subject: postalCode=11341, L=Vilnius/businessCategory=Private Organization/jurisdictionCountryName=LT, C=LT, O=Dokobit, UAB, CN=dokobit.com/serialNumber=301549834`
+
+[Download certifiate](https://github.com/dokobit/certificates/blob/main/2023/qwac_dokobit_com.crt)
+
 # Dokobit TLS/SSL certificates
 
 ## 2023 *.dokobit.com
