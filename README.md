@@ -1,15 +1,29 @@
-## 2023 app.dokobit.com, dokobit.com, www.dokobit.com
+# Dokobit TLS/SSL certificates
+
+## 2025 app.dokobit.com, dokobit.com, www.dokobit.com
 ### Qualified Website Authentication Certificate (QWAC)
 __Validity__ \
-notBefore: `Dec 19 16:29:18 2022 GMT` \
-notAfter: `Nov 25 22:59:00 2023 GMT`
+ Not Before: Nov  1 11:02:29 2024 GMT
+ Not After : Nov 25 22:59:00 2025 GMT
+
+__Subject__ \
+`Subject: C=LT, L=Vilnius, postalCode=11341, O=Dokobit, UAB, CN=dokobit.com, businessCategory=Private Organization, jurisdictionC=LT, serialNumber=301549834`
+
+[Download certificate](https://github.com/dokobit/certificates/blob/main/2025/qwac_dokobit_com.crt)
+
+
+
+## 2024 app.dokobit.com, dokobit.com, www.dokobit.com
+### Qualified Website Authentication Certificate (QWAC)
+__Validity__ \
+notBefore: `Dec 19 16:29:18 2023 GMT` \
+notAfter: `Nov 25 22:59:00 2024 GMT`
 
 __Subject__ \
 `Subject: postalCode=11341, L=Vilnius/businessCategory=Private Organization/jurisdictionCountryName=LT, C=LT, O=Dokobit, UAB, CN=dokobit.com/serialNumber=301549834`
 
-[Download certificate](https://github.com/dokobit/certificates/blob/main/2023/qwac_dokobit_com.crt)
+[Download certificate](https://github.com/dokobit/certificates/blob/main/2024/qwac_dokobit_com.crt)
 
-# Dokobit TLS/SSL certificates
 
 ## 2023 *.dokobit.com
 ### Organisation verified
