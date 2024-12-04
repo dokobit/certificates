@@ -1,5 +1,17 @@
 # Dokobit TLS/SSL certificates
 
+
+## 2025 *.dokobit.com
+### Organisation verified
+__Validity__ \
+Not Before: `Nov 23 00:00:00 2024 GMT` \
+Not After : `Dec 24 23:59:59 2025 GMT`
+
+__Subject__ \
+`C=LT, ST=Vilnius, O=Dokobit UAB, CN=*.dokobit.com`
+
+[Download certificate](https://github.com/dokobit/certificates/blob/main/2025/dokobit_com.crt)
+
 ## 2025 app.dokobit.com, dokobit.com, www.dokobit.com
 ### Qualified Website Authentication Certificate (QWAC)
 __Validity__ \
